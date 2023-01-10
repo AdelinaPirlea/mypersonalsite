@@ -1,0 +1,79 @@
+.title0{
+
+  color: azure;
+  text-align: center;
+  font-size:50pt;
+  margin-top: 65px;
+  margin-left: 670px;
+  border: 5px solid black;
+  width: 550px;
+}
+body{
+ background: #d3a8d3;
+}
+.button1{
+ 
+  margin-left: 600px;
+  margin-top: 25px;
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+}
+.button2{
+ 
+  margin-left: 760px;
+  margin-top: -42px;
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+}
+.button3{
+ 
+  margin-left: 900px;
+  margin-top: -42px;
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+}
+.button4{
+ 
+  margin-left:1120px;
+  margin-top: -42px;
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+}
+.rightimg{
+ width:80px;
+ height: 200px;
+ margin-left: 170px;
+ margin-top: -300px;
+}
+.fundal{
+  width:80px;
+  height: 200px;
+  margin-left: -25px;
+  margin-top: -600px; 
+}
+#logo{
+  width: 60px;
+  height: 60px;
+  margin-top: -40px;
+  margin-left: 15px;
+}
+
+
+ .verse{
+   width: 420px;
+   height: 150px;
+  color: azure;
+  font-size: 25px;
+   margin-top: 75px;
+   margin-left: 730px;
+   border-radius: 25px;
+   background: black;
+   padding-left: 15px;
+   padding-top: 20px;
+ 
+ }
+ 

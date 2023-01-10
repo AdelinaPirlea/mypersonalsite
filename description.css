@@ -1,0 +1,75 @@
+body{
+    background-color: #f0c7dc;
+}
+.description{
+    border: 5px solid black;
+    margin-left: 800px;
+    font-size: 45px;
+    color: black;
+    width: 250px;
+    text-align: center;
+    margin-top: -65px;
+
+}
+#logo{
+    width: 60px;
+    height: 60px;
+    margin-top: 15px;
+    margin-left: 1220px;
+  }
+  .img{
+    margin-left: -25px;
+    margin-top: -160px;
+  }
+
+  .jesuscontent1{
+    background: black;
+    width: 400px;
+    height:120px;
+    font-size: 20px;
+    border-radius: 25px;
+    color: #f0c7dc;
+    margin-left: 560px;
+    margin-top: -650px;
+    padding: 10px 10px 10px 10px;
+  }
+  .jesuscontent2{
+    background: black;
+    width: 300px;
+    height:150px;
+    font-size: 20px;
+    border-radius: 25px;
+    color: #f0c7dc;
+    margin-left: 1000px;
+    margin-top: -138px;
+    padding: 10px 10px 10px 10px;
+  }
+  .jesuscontent3{
+    background: black;
+    width: 700px;
+    height:80px;
+    font-size: 20px;
+    border-radius: 25px;
+    color: #f0c7dc;
+    margin-left: 580px;
+    margin-top: 25px;
+    padding: 10px 10px 10px 10px;
+  }
+  .affirmation1{
+    font-size: 25px;
+    margin-left: 800px;
+    font-weight: bold;
+    margin-top: 50px;
+  }
+  .verse{
+    background: rgb(80, 79, 79);
+    width: 500px;
+    padding: 10px 10px 10px 10px;
+    height:100px;
+    margin-left: 700px;
+    color: #f0c7dc;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+

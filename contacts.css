@@ -1,0 +1,72 @@
+.img{
+    margin-top:-100px ;
+    margin-left:-25px ;
+}
+body{
+    background-color: #f0c7dc;
+}
+#logo{
+    width: 60px;
+    height: 60px;
+    margin-top: 15px;
+    margin-left: 1220px;
+  }
+  .contacts{
+    border: 5px solid black;
+    margin-left: 800px;
+    font-size: 45px;
+    color: black;
+    width: 250px;
+    text-align: center;
+    margin-top: -680px;
+
+  }
+  .instagram{
+    font-weight: bold;
+        margin-left: 630px;
+    font-size: 20px;
+    margin-top: -42px;
+
+  }
+  .logotip{
+    width: 40px;
+    width: 40px;
+    margin-left: 580px;
+    margin-top: 50px;
+  }
+  .phone{
+    width: 40px;
+    width: 40px;
+    margin-left: 580px;
+    margin-top: 70px;
+  }
+  .phonenumber{
+    font-weight: bold;
+    margin-left: 640px;
+    margin-top: -45px;
+    font-size: 20px;
+  }
+  .mail{
+    width: 40px;
+    width: 40px;
+    margin-left: 580px;
+    margin-top: 70px;
+  }
+  .mail1{
+    font-weight: bold;
+    margin-left: 640px;
+    margin-top: -40px;
+    font-size: 20px;
+  }
+  .telegram{
+    width: 40px;
+    width: 40px;
+    margin-left: 580px;
+    margin-top: 70px;
+  }
+  .telegram1{
+    font-weight: bold;
+    margin-left: 640px;
+    margin-top: -40px;
+    font-size: 20px;
+  }
